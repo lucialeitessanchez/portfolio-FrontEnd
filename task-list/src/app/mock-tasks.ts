@@ -1,5 +1,5 @@
 import {Task} from "./Task"
-export const TASK = [
+export const TASKS = [
     {
         id: 1,
         text: "Terminar primer modulo de Angular",
