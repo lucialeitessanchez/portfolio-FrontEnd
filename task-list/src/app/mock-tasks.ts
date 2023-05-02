@@ -1,3 +1,4 @@
+import {Task} from "./Task"
 export const TASK = [
     {
         id: 1,
@@ -14,7 +15,14 @@ export const TASK = [
     {
         id: 3,
         text: "Empezar con los ejercicios de bicicleta",
-        day: 'Agosto 5 a las 12:00',
+        day: 'Octubre 21 a las 09:00',
+        reminder: true
+    },
+    {
+        id: 4,
+        text: "Comprar yerba",
+        day: 'Enero 16 a las 07:00',
         reminder: true
     }
+
 ]
